@@ -1,5 +1,9 @@
 # Intro to Object Oriented Programming
 
+## Instructions
+
+Fork this repo, then run `git clone` to download it locally. Then `cd` into the downloaded directory and open it in your text editor with `code .`.
+
 There are three files in this assignment: `run.rb`, `models/clown.rb`. You'll be working on implementing a Clown class in the `models/clown.rb` file by following the deliverables below. Use the `run.rb` to create seed data (sample instances of your class) and test the methods that you write out.
 
 Here are some things to keep in mind as you're working through the deliverables:
@@ -45,3 +49,14 @@ Create a MenuItem class. The class should have these methods:
     - *returns* all the MenuItem instances.
 - [ ] `MenuItem#restaurant_name` 
     - *returns* the name (string) of the restaurant associated with the menu item instance
+    
+
+## Submitting
+
+When you’re finished, run the following commands in your terminal to submit:
+
+```
+git add .
+git commit -m 'Done'
+git push
+```
