@@ -29,7 +29,7 @@ Update our Restaurant class to have these methods:
 - [ ] `Restaurant#add_menu_item` 
     - takes a *dish_name* (string) and a *price* (integer) as arguments
     - *returns* a new *MenuItem* associated with the restaurant.
-- [ ] `Restaurant.print_menu` 
+- [ ] `Restaurant#print_menu` 
     - *output to the terminal* the dish name and price of each MenuItem associated with the restaurant. You can format the output string however you'd like!
 - [ ] *bonus* `Restaurant.biggest_menu`
     - *returns* the restaurant that has made the most items on their menu.
