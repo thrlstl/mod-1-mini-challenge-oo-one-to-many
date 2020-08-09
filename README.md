@@ -20,6 +20,8 @@ We'll be working on an application for restaurants to keep track of their menu i
 - a _Restaurant_ has many _MenuItems_
 - a _MenuItem_ belongs to a _Restaurant_
 
+Restaurant -< MenuItem
+
 We have some starter code already defined - check the `models/restaurant.rb` and `models/menu_item.rb` files to see what you have to work with already.
 
 ## Deliverables
